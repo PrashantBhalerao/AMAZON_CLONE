@@ -494,7 +494,7 @@ hr {
 /* RESPONSIVE DESIGN */
 
 /* 4k screeen */
-
+/* 
 @media (max-width: 2561px) {
     .search-input {
         width: 28rem;
@@ -510,7 +510,7 @@ hr {
         top: 151.5rem;
 
     }
-}
+} */
 
 /* LARGE SCREEN */
 @media (max-width: 1441px) {
